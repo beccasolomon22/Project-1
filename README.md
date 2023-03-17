@@ -17,6 +17,8 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Changes and correlates of screen time in adults and children](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2822%2900182-1)
 
+[American Screen Time on Social Media and Streaming Sites](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2822%2900182-1](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
+
 
 
 ## Data Cleaning/Manipulation & Conversion
