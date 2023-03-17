@@ -13,11 +13,9 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Children's Screentime](https://www.webmd.com/parenting/news/20221114/kids-screen-time-rose-sharply-during-pandemic-study-says#:~:text=The%20increase%20amounts%20to%20an,study%20published%20in%20JAMA%20Pediatrics)
 
-[Global Screentime](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
+[US vs Global Screentime](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
 
 [Changes and correlates of screen time in adults and children](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2822%2900182-1)
-
-[American Screen Time on Social Media and Streaming Sites](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
 
 [Company by Age]()
 
