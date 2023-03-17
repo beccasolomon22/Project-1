@@ -17,7 +17,6 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Changes and correlates of screen time in adults and children](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2822%2900182-1)
 
-[GitHub Pages](https://pages.github.com/)
 
 
 ## Data Cleaning/Manipulation & Conversion
