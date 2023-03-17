@@ -11,7 +11,7 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 ## Datasets
 
-[Children's Screentime ]([https://pages.github.com/](https://www.webmd.com/parenting/news/20221114/kids-screen-time-rose-sharply-during-pandemic-study-says#:~:text=The%20increase%20amounts%20to%20an,study%20published%20in%20JAMA%20Pediatrics))
+[Children's Screentime ]([https://pages.github.com/](https://www.webmd.com/parenting/news/20221114/kids-screen-time-rose-sharply-during-pandemic-study-says#:~:text=The%20increase%20amounts%20to%20an,study%20published%20in%20JAMA%20Pediatrics)
 
 [Global Screentime](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
 
