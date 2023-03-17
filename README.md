@@ -19,6 +19,14 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [American Screen Time on Social Media and Streaming Sites](https://www.comparitech.com/tv-streaming/screen-time-statistics/#:~:text=Worldwide%2C%20the%20average%20person%20spends,minutes%20of%20listening%20to%20podcasts)
 
+[Company by Age]()
+
+[TikTok Revenue and Users]()
+
+[Total Revenue for Different Social Media Sites](https://www.kaggle.com/datasets/prasertk/major-social-media-stock-prices-20122022?resource=download)
+
+[Revenue for Streaming Sites](https://www.kaggle.com/code/lamaradwan/netflix-and-tiktok-revenue-and-users/input)
+
 
 
 ## Data Cleaning/Manipulation & Conversion
