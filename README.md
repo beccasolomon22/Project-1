@@ -29,6 +29,6 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 ## Data Cleaning/Manipulation & Conversion
 
-## 
+## Read Netflix Revenue, Netflix Subscribers, TikTok Revenue, TikTok Users, Youtube Revenue, Youtube Premium Subscribers, Hulu Revenue, Hulu Subscribers, Twitch Revenue, Twitch Concurrent Viewers 
 
 ## Conclusion 
