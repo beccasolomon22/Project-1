@@ -25,6 +25,8 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Revenue for Streaming Sites](https://www.kaggle.com/code/lamaradwan/netflix-and-tiktok-revenue-and-users/input)
 
+[TikTok Reviews from 2012 to 2021](https://www.kaggle.com/datasets/shivamb/35-million-tiktok-mobile-app-reviews)
+
 
 
 ## Data Cleaning/Manipulation & Conversion
