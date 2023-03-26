@@ -75,4 +75,3 @@ First, there was a significant increase in both users and revenue between 2020 t
 Directly from the first point, the second major conclusion is that there was a significant decrease come 2022 to 2023 because lockdown restrictions eased and people were able to spend their time somewhere else again. With schools and work also reverting from hybrid to back to the office settings, people have started spending less time online, which explains why there was a significant decrease.
 
 Lastly, TikTok’s success is very interesting to note because compared to other well-established social media platforms, it is relatively younger. However, the impact of its success can be seen with other social media companies mimicking its algorithm. Examples of this include Facebook’s and Instagram’s reels, Snapchat’s Spotlight feature, and YouTube shorts.
-![image](https://user-images.githubusercontent.com/122139862/227761593-0c121004-8c35-4f48-a0d7-3a8edd56e1d8.png)
