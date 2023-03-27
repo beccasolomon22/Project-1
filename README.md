@@ -40,7 +40,7 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 For getting the company ages, we did the same thing, but we also set the csv columns as variables and plotted a bar graph using pandas as well.
 ***
 
-### Average Screen Time
+### Average Screen Time Per Day
 ![IMG2](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.46%20AM.png) 
 
 For getting the average screen time graphs, we passed the 2 csvs through the reader: 1 for average screen time in 2018 and 1 for average screen time in 2023; the information for average screen time from 2020 to 2022 was retrieved from the WebMD article listed above under datasets. In cleaning the 2018 data, we dropped unnecessary columns and renamed the columns to be more concise. Then, we had to extract the answers for screen time on the survey by creating a for loop. We then got the average and then plotted using matplotlib.
