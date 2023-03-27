@@ -47,6 +47,7 @@ For graphing the global average screen time from 2022 to 2023, we passed the csv
 For retrieving the weather in San Jose, San Francisco, and Berkeley: we created the query url with the API key and the units. We then created a list for the cities including San Jose, San Francsico, and Berkeley. We then created a for loop to to get the cities' latitude, longitude, and temperatures of the 3 cities from the API.
 
 ![IMG5](https://github.com/beccasolomon22/Project-1/blob/main/review_data/rv_per_year.png)
+TikTok review data came in two separate Datasets, one for 2015-2021 and a second for 2022. The cleaning process revolved mainly around separating the year from the date/time as well as determining which columns existed in both datasets. After determining which columns were essential to our analysis we created new datasets containing only the information needed and information that matched both datasets. From there the two sets were merged to show all reviews from 2015-2022.
 
 ## Data Analysis
 ## TikTok Compared to Streaming Sites:
