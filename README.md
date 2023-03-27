@@ -57,7 +57,6 @@ TikTok review data came in two separate Datasets, one for 2015-2021 and a second
 ## Data Analysis
 
 ### Social Media During Covid:
-***
 
 ![Stock](https://github.com/beccasolomon22/Project-1/blob/main/stock_data/yearly_change.png)
 
@@ -68,6 +67,7 @@ As for the other four, they all experienced the largest positive change in their
 Snapchat, Pinterest, and Etsy had a net stock decrease from 2018 to 2019, then once Covid-19 hit the stock increased again.
 
 Due to the drastic rise is stock change for the four companies that did not experience a Data-Privacy Scandal in 2018, it is evident that the reason for this increase in Covid-19 and the increase in screentime (from the lockdown).
+***
 
 ### TikTok Compared to Streaming Sites:
 
@@ -78,50 +78,59 @@ First, at the height of the COVID-19 pandemic, the entire country was under lock
 Lastly, as the users/subscribers increased, the revenue for the companies also increased. The difference in severity can be explained due to the fact that users of streaming platforms tend to share accounts and costs, especially during the pandemic where majority of the population became unemployed. Nonetheless, the stock prices for these companies still had a significant increase from 2019 to 2020.
 
 In the following section, we will be diving deeper into the numbers for the aforementioned streaming revenue and users for Netflix, Hulu, Twitch, YouTube, and finally TikTok.
+***
 
 ### Netflix Revenue & Netflix Subscribers
 ![IMG5](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.10%20AM.png)
 For Netflix, there was an average increase in subscribers of 27.8% pre-pandemic (2011 to 2018) and an inrease of 24% during the pandemic (2019 to 2020).
 
 In terms of revenue, Netflix had an average increase of 25.2% pre-pandemic (2011 to 2018) and an increase of 17.1% during the pandemic (2019 to 2020).
+***
 
 ### Hulu Revenue & Hulu Subscribers
 ![IMG6](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.30%20AM.png)
 For Hulu, there was an average increase in subscribers of 39.5% pre-pandemic (2010 to 2018) and an inrease of 35% during the pandemic (2019 to 2020).
 
 In terms of revenue, Hulu had an average increase of 35% pre-pandemic (2010 to 2018) and an increase of 19.30% during the pandemic (2019 to 2020).
+***
 
 ### Twitch Revenue & Twitch Concurrent Viewers
 ![IMG7](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.40%20AM.png) 
 For Twitch, there was an average increase in subscribers of 27% pre-pandemic (2016 to 2018) and an inrease of 68% during the pandemic (2019 to 2020).
 
 In terms of revenue, Twitch had an average increase of 81% pre-pandemic (2016 to 2018) and an increase of 13% during the pandemic (2019 to 2020).
+***
 
 ### YouTube Revenue & Youtube Premium Subscribers
 ![IMG8](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.46%20AM.png)
 For YouTube, there was an average increase in premium subscribers of 116.82% pre-pandemic (2015 to 2020) and an inrease of 73.33% during the pandemic (2019 to 2020).
 
 In terms of revenue, YouTube had an average increase of 40.67% pre-pandemic (2010 to 2018) and an increase of 33.24% during the pandemic (2019 to 2020).
+***
 
 ### TikTok Revenue & TikTok User
 ![IMG9](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.51%20AM.png)
 For TikTok, there was an average increase in premium subscribers of 145% pre-pandemic (2017 to 2019) and an inrease of 63.28% during the pandemic (2020 to 2021).
 
 In terms of revenue, TikTok had an average increase of 135.5% pre-pandemic (2017 to 2019) and an increase of 292% during the pandemic (2020 to 2021).
+***
 
 ### TikTok Followers
 ![IMG10](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.07%20AM.png)
 TikTok's followers for popular users increased 394% from 2019 to 2020 and decreased 29.3% from 2020 to 2021.
+***
 
 ### TikTok Shares and Comments
 
 ![IMG11](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.14%20AM.png)
 Tiktok's shares and comments increased by 211.07% and 637.72% respectively. Tiktok's shares and comments decreased by 51.63% and 60.90% respectively. 
+***
 
 ### TikTok Plays and Likes 
 
 ![IMG12](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.20%20AM.png)
 Tiktok's plays and likes increased by 385.57% and 92% respectively. Tiktok's shares and comments decreased by 45.93% and 72% respectively. 
+***
 
 ### TikTok Reviews
 
