@@ -58,6 +58,7 @@ For retrieving the weather in San Jose, San Francisco, and Berkeley: we created 
 
 TikTok review data came in two separate Datasets, one for 2015-2021 and a second for 2022. The cleaning process revolved mainly around separating the year from the date/time as well as determining which columns existed in both datasets. After determining which columns were essential to our analysis we created new datasets containing only the information needed and information that matched both datasets. From there the two sets were merged to show all reviews from 2015-2022.
 
+
 ## Data Analysis
 
 ### Social Media During Covid:
@@ -139,6 +140,10 @@ Tiktok's plays and likes increased by 385.57% and 92% respectively. Tiktok's sha
 ### TikTok Reviews
 
 ![Review](https://github.com/beccasolomon22/Project-1/blob/main/review_data/rv_per_year.png)
+TikTok had a total of 1,254,268 new reviews posted in 2020. In 2019 there was a total of 934,970 new reviews. This is an increase of 34% from 2019 to 2020. However, in 2021 there was a total of 687,509 new reviews, which is a 45% decrease from 2020. 
+
+Even though the amount of new reviews decreased from 2020 to 2021, there are still more new reviews in 2021 than in any of the years from 2015-2018. This means that even though the years with the highest amount of new reviews were 2019 and 2020 (during the peak of the Covid-19 pandemic), the app still continues to grow in reviews (and users) despite everyone returning to the world.
+
 
 ## Conclusion 
 Based on the data we gathered and analyzed, we were able to infer the following conclusions:
