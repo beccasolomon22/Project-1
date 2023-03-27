@@ -56,7 +56,8 @@ TikTok review data came in two separate Datasets, one for 2015-2021 and a second
 
 ## Data Analysis
 
-### Social Media During Covid
+### Social Media During Covid:
+***
 
 ![Stock](https://github.com/beccasolomon22/Project-1/blob/main/stock_data/yearly_change.png)
 
