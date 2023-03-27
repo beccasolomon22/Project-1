@@ -35,21 +35,32 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 ## Data Cleaning/Manipulation & Conversion
 
 ![IMG1](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.58%20AM.png)
+
 For getting the company ages, we did the same thing, but we also set the csv columns as variables and plotted a bar graph using pandas as well.
 
 ![IMG2](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.46%20AM.png) 
+
 For getting the average screen time graphs, we passed the 2 csvs through the reader: 1 for average screen time in 2018 and 1 for average screen time in 2023; the information for average screen time from 2020 to 2022 was retrieved from the WebMD article listed above under datasets. In cleaning the 2018 data, we dropped unnecessary columns and renamed the columns to be more concise. Then, we had to extract the answers for screen time on the survey by creating a for loop. We then got the average and then plotted using matplotlib.
 
 ![IMG3](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.58%20AM.png) 
+
 For graphing the global average screen time from 2022 to 2023, we passed the csv through a reader and dropped all the NA values to clean the dataset. We then sorted the data into ascending order. We then plotted the graph using matplotlib and set multiple colors for the bars.
 
-![IMG4](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.26%20AM.png) 
+![IMG4](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.26%20AM.png)
+
 For retrieving the weather in San Jose, San Francisco, and Berkeley: we created the query url with the API key and the units. We then created a list for the cities including San Jose, San Francsico, and Berkeley. We then created a for loop to to get the cities' latitude, longitude, and temperatures of the 3 cities from the API.
 
-![IMG5](https://github.com/beccasolomon22/Project-1/blob/main/review_data/rv_per_year.png)
+![Review](https://github.com/beccasolomon22/Project-1/blob/main/review_data/rv_per_year.png)
+
 TikTok review data came in two separate Datasets, one for 2015-2021 and a second for 2022. The cleaning process revolved mainly around separating the year from the date/time as well as determining which columns existed in both datasets. After determining which columns were essential to our analysis we created new datasets containing only the information needed and information that matched both datasets. From there the two sets were merged to show all reviews from 2015-2022.
 
 ## Data Analysis
+
+## Social Media During Covid
+
+![Stock](https://github.com/beccasolomon22/Project-1/blob/main/stock_data/yearly_change.png)
+
+
 ## TikTok Compared to Streaming Sites:
 
 For all the streaming sites, they showed similar trends in the increase of revenue and users, where there is an increase in revenue and a significant increase in users/subscribers. These numbers are expected, due to the following factors:
