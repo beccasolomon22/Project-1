@@ -1,5 +1,5 @@
 # TikTok Usage and COVID-19
-Team 3 Members: Mustafa Naeem, Rebecca Solomon, Francis Crawford (presenter), Isabelle Roetcisoender, & Sabrina Fernandez
+Team 3 Members: Mustafa Naeem, Rebecca Solomon, Francis Crawford, Isabelle Roetcisoender, & Sabrina Fernandez
 
 ## Topic Overview
 In the wake of the coronavirus (COVID-19) pandemic many have been turning to social media for information, support and social connection. This analysis serves to answer how social media usage has been impacted by the coronavirus (COVID-19) pandemic. 
@@ -25,12 +25,63 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Revenue for Streaming Sites](https://www.kaggle.com/code/lamaradwan/netflix-and-tiktok-revenue-and-users/input)
 
-[TikTok Reviews from 2012 to 2021: (dataset too large for github)](https://www.kaggle.com/datasets/shivamb/35-million-tiktok-mobile-app-reviews) 
-
-
 
 ## Data Cleaning/Manipulation & Conversion
+(add process of data cleaning and graphs in this section) refer to this part of canvas:
+6–8 visualizations of data (at least two per question) (10 points)
+Clear and accurate labeling of images (5 points)
+Visualizations supported with ample and precise explanation (5 points)
 
-## Read Netflix Revenue, Netflix Subscribers, TikTok Revenue, TikTok Users, Youtube Revenue, Youtube Premium Subscribers, Hulu Revenue, Hulu Subscribers, Twitch Revenue, Twitch Concurrent Viewers 
+(insert the netflix revenue/subscriber HERE) For getting the subscribers and revenue per streaming site, we merged 10 csvs together (2 per site) and used pandas to create bar graphs, with revenue/subscribers on the y-axis and years on the x-axis.
+
+(insert the company ages HERE) For getting the company ages, we did the same thing, but we also set the csv columns as variables and plotted a bar graph using pandas as well.
+
+(insert average screentime graph HERE) For getting the average screen time graphs, we passed the 2 csvs through the reader: 1 for average screen time in 2018 and 1 for average screen time in 2023; the information for average screen time from 2020 to 2022 was retrieved from a WebMD article (INSERT WEBMD ARTICLE HERE). In cleaning the 2018 data, we dropped unnecessary columns and renamed the columns to be more concise. Then, we had to extract the answers for screen time on the survey by creating a for loop. We then got the average and then plotted using matplotlib.
+
+(insert the global difference graph HERE) For graphing the global average screen time from 2022 to 2023, we passed the csv through a reader and dropped all the NA values to clean the dataset. We then sorted the data into ascending order. We then plotted the graph using matplotlib and set multiple colors for the bars.
+
+(insert API graph HERE) For retrieving the weather in San Jose, San Francisco, and Berkeley: we created the query url with the API key and the units. We then created a list for the cities including San Jose, San Francsico, and Berkeley. We then created a for loop to to get the cities' latitude, longitude, and temperatures of the 3 cities from the API.
+
+## Data Analysis
+## TikTok Compared to Streaming Sites:
+For all the streaming sites, they showed similar trends in the increase of revenue and users, where there is an increase in revenue and a significant increase in users/subscribers. These numbers are expected, due to the following factors:
+
+First, at the height of the COVID-19 pandemic, the entire country was under lockdown for months. With the extended period of time indoors, people had to get creative on how to spend their time. The graphs will portray a significant increase in subscribers from 2019 to 2020, which is peak lockdown; and then a significant decrease from 2021 to 2022 when lockdowns eased. This corresponds with an increase in screentime, as more people are watching shows on different platforms.
+
+Lastly, as the users/subscribers increased, the revenue for the companies also increased. The difference in severity can be explained due to the fact that users of streaming platforms tend to share accounts and costs, especially during the pandemic where majority of the population became unemployed. Nonetheless, the stock prices for these companies still had a significant increase from 2019 to 2020.
+
+In the following section, we will be diving deeper into the numbers for the aforementioned streaming revenue and users for Netflix, Hulu, Twitch, YouTube, and finally TikTok.
+
+## Netflix Revenue & Netflix Subscribers
+For Netflix, there was an average increase in subscribers of 27.8% pre-pandemic (2011 to 2018) and an inrease of 24% during the pandemic (2019 to 2020).
+
+In terms of revenue, Netflix had an average increase of 25.2% pre-pandemic (2011 to 2018) and an increase of 17.1% during the pandemic (2019 to 2020).
+
+## Hulu Revenue & Hulu Subscribers
+For Hulu, there was an average increase in subscribers of 39.5% pre-pandemic (2010 to 2018) and an inrease of 35% during the pandemic (2019 to 2020).
+
+In terms of revenue, Hulu had an average increase of 35% pre-pandemic (2010 to 2018) and an increase of 19.30% during the pandemic (2019 to 2020).
+
+## Twitch Revenue & Twitch Concurrent Viewers
+For Twitch, there was an average increase in subscribers of 27% pre-pandemic (2016 to 2018) and an inrease of 68% during the pandemic (2019 to 2020).
+
+In terms of revenue, Twitch had an average increase of 81% pre-pandemic (2016 to 2018) and an increase of 13% during the pandemic (2019 to 2020).
+
+## YouTube Revenue & Youtube Premium Subscribers
+For YouTube, there was an average increase in premium subscribers of 116.82% pre-pandemic (2015 to 2020) and an inrease of 73.33% during the pandemic (2019 to 2020).
+
+In terms of revenue, YouTube had an average increase of 40.67% pre-pandemic (2010 to 2018) and an increase of 33.24% during the pandemic (2019 to 2020).
+
+## TikTok Revenue & TikTok User
+For TikTok, there was an average increase in premium subscribers of 145% pre-pandemic (2017 to 2019) and an inrease of 63.28% during the pandemic (2020 to 2021).
+
+In terms of revenue, TikTok had an average increase of 135.5% pre-pandemic (2017 to 2019) and an increase of 292% during the pandemic (2020 to 2021).
 
 ## Conclusion 
+Based on the data we gathered and analyzed, we were able to infer the following conclusions:
+
+First, there was a significant increase in both users and revenue between 2020 to 2021 across all the different social media platforms (Facebook, Hulu, Netflix, etc.), but TikTok succeeded way more than expected and that was boosted due to the pandemic. With everyone stuck at home during the lockdown, a lot of people had to pre-occupy themselves, which involved being on the computer a lot more. The internet became our connection to the “outside world” and a lot of school/work were also held online.
+
+Directly from the first point, the second major conclusion is that there was a significant decrease come 2022 to 2023 because lockdown restrictions eased and people were able to spend their time somewhere else again. With schools and work also reverting from hybrid to back to the office settings, people have started spending less time online, which explains why there was a significant decrease.
+
+Lastly, TikTok’s success is very interesting to note because compared to other well-established social media platforms, it is relatively younger. However, the impact of its success can be seen with other social media companies mimicking its algorithm. Examples of this include Facebook’s and Instagram’s reels, Snapchat’s Spotlight feature, and YouTube shorts.
