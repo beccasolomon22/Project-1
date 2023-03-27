@@ -60,6 +60,13 @@ TikTok review data came in two separate Datasets, one for 2015-2021 and a second
 
 ![Stock](https://github.com/beccasolomon22/Project-1/blob/main/stock_data/yearly_change.png)
 
+For all five of these Social Media sites or apps, the yearly change in stock increased from the previous year. The most dramatic change is seen in Etsy's stock which increased by 133.20 from 2019. In four of the five platforms the increase in 2020 was significantly higher than 2019 and the year after in 2021. The only exception we see to this is Facebook. Being the oldest of the five platforms and having see a major drop in stock in 2018 due to a Data-Privacy scandal, they used 2019 to repair their reputation which is why we see a large growth in the stock change from 2018-2019. 
+
+As for the other four, they all experienced the largest positive change in their stock prices from 2019-2020 than any other year from the data gathered. 
+
+Snapchat, Pinterest, and Etsy had a net stock decrease from 2018 to 2019, then once Covid-19 hit the stock increased again.
+
+Due to the drastic rise is stock change for the four companies that did not experience a Data-Privacy Scandal in 2018, it is evident that the reason for this increase in Covid-19 and the increase in screentime (from the lockdown).
 
 ## TikTok Compared to Streaming Sites:
 
