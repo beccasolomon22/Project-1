@@ -28,14 +28,14 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 ## Data Cleaning/Manipulation & Conversion
 
-:[IMG1](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.58%20AM.png)
+![IMG1](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.58%20AM.png)
 For getting the company ages, we did the same thing, but we also set the csv columns as variables and plotted a bar graph using pandas as well.
 
-:[IMG2](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.46%20AM.png) For getting the average screen time graphs, we passed the 2 csvs through the reader: 1 for average screen time in 2018 and 1 for average screen time in 2023; the information for average screen time from 2020 to 2022 was retrieved from the WebMD article listed above under datasets. In cleaning the 2018 data, we dropped unnecessary columns and renamed the columns to be more concise. Then, we had to extract the answers for screen time on the survey by creating a for loop. We then got the average and then plotted using matplotlib.
+![IMG2](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.46%20AM.png) For getting the average screen time graphs, we passed the 2 csvs through the reader: 1 for average screen time in 2018 and 1 for average screen time in 2023; the information for average screen time from 2020 to 2022 was retrieved from the WebMD article listed above under datasets. In cleaning the 2018 data, we dropped unnecessary columns and renamed the columns to be more concise. Then, we had to extract the answers for screen time on the survey by creating a for loop. We then got the average and then plotted using matplotlib.
 
-:[IMG3](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.58%20AM.png) For graphing the global average screen time from 2022 to 2023, we passed the csv through a reader and dropped all the NA values to clean the dataset. We then sorted the data into ascending order. We then plotted the graph using matplotlib and set multiple colors for the bars.
+![IMG3](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.03.58%20AM.png) For graphing the global average screen time from 2022 to 2023, we passed the csv through a reader and dropped all the NA values to clean the dataset. We then sorted the data into ascending order. We then plotted the graph using matplotlib and set multiple colors for the bars.
 
-:[IMG4](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.26%20AM.png) For retrieving the weather in San Jose, San Francisco, and Berkeley: we created the query url with the API key and the units. We then created a list for the cities including San Jose, San Francsico, and Berkeley. We then created a for loop to to get the cities' latitude, longitude, and temperatures of the 3 cities from the API.
+![IMG4](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.26%20AM.png) For retrieving the weather in San Jose, San Francisco, and Berkeley: we created the query url with the API key and the units. We then created a list for the cities including San Jose, San Francsico, and Berkeley. We then created a for loop to to get the cities' latitude, longitude, and temperatures of the 3 cities from the API.
 
 ## Data Analysis
 ## TikTok Compared to Streaming Sites:
@@ -49,46 +49,46 @@ Lastly, as the users/subscribers increased, the revenue for the companies also i
 In the following section, we will be diving deeper into the numbers for the aforementioned streaming revenue and users for Netflix, Hulu, Twitch, YouTube, and finally TikTok.
 
 ## Netflix Revenue & Netflix Subscribers
-:[IMG5](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.10%20AM.png)
+![IMG5](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.10%20AM.png)
 For Netflix, there was an average increase in subscribers of 27.8% pre-pandemic (2011 to 2018) and an inrease of 24% during the pandemic (2019 to 2020).
 
 In terms of revenue, Netflix had an average increase of 25.2% pre-pandemic (2011 to 2018) and an increase of 17.1% during the pandemic (2019 to 2020).
 
 ## Hulu Revenue & Hulu Subscribers
-:[IMG6](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.30%20AM.png)
+![IMG6](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.30%20AM.png)
 For Hulu, there was an average increase in subscribers of 39.5% pre-pandemic (2010 to 2018) and an inrease of 35% during the pandemic (2019 to 2020).
 
 In terms of revenue, Hulu had an average increase of 35% pre-pandemic (2010 to 2018) and an increase of 19.30% during the pandemic (2019 to 2020).
 
 ## Twitch Revenue & Twitch Concurrent Viewers
-:[IMG7](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.40%20AM.png) 
+![IMG7](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.40%20AM.png) 
 For Twitch, there was an average increase in subscribers of 27% pre-pandemic (2016 to 2018) and an inrease of 68% during the pandemic (2019 to 2020).
 
 In terms of revenue, Twitch had an average increase of 81% pre-pandemic (2016 to 2018) and an increase of 13% during the pandemic (2019 to 2020).
 
 ## YouTube Revenue & Youtube Premium Subscribers
-:[IMG8](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.46%20AM.png)
+![IMG8](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.46%20AM.png)
 For YouTube, there was an average increase in premium subscribers of 116.82% pre-pandemic (2015 to 2020) and an inrease of 73.33% during the pandemic (2019 to 2020).
 
 In terms of revenue, YouTube had an average increase of 40.67% pre-pandemic (2010 to 2018) and an increase of 33.24% during the pandemic (2019 to 2020).
 
 ## TikTok Revenue & TikTok User
-:[IMG9](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.51%20AM.png)
+![IMG9](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.51%20AM.png)
 For TikTok, there was an average increase in premium subscribers of 145% pre-pandemic (2017 to 2019) and an inrease of 63.28% during the pandemic (2020 to 2021).
 
 In terms of revenue, TikTok had an average increase of 135.5% pre-pandemic (2017 to 2019) and an increase of 292% during the pandemic (2020 to 2021).
 
 ## TikTok Followers
-:[IMG10](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.07%20AM.png)
+![IMG10](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.07%20AM.png)
 TikTok's followers for popular users increased 394% from 2019 to 2020 and decreased 29.3% from 2020 to 2021.
 
 ## TikTok Shares and Comments
 
-:[IMG11](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.14%20AM.png)
+![IMG11](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.14%20AM.png)
 Tiktok's shares and comments increased by 211.07% and 637.72% respectively. Tiktok's shares and comments decreased by 51.63% and 60.90% respectively. 
 
 ## TikTok Plays and Likes 
-:[IMG12](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.20%20AM.png)
+![IMG12](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.06.20%20AM.png)
 Tiktok's plays and likes increased by 385.57% and 92% respectively. Tiktok's shares and comments decreased by 45.93% and 72% respectively. 
 
 ## Conclusion 
