@@ -158,3 +158,11 @@ First, there was a significant increase in both users and revenue between 2020 t
 Directly from the first point, the second major conclusion is that there was a significant decrease come 2022 to 2023 because lockdown restrictions eased and people were able to spend their time somewhere else again. With schools and work also reverting from hybrid to back to the office settings, people have started spending less time online, which explains why there was a significant decrease.
 
 Lastly, TikTok’s success is very interesting to note because compared to other well-established social media platforms, it is relatively younger. However, the impact of its success can be seen with other social media companies mimicking its algorithm. Examples of this include Facebook’s and Instagram’s reels, Snapchat’s Spotlight feature, and YouTube shorts.
+
+## Next Steps
+
+1. Get Access to TikToks API. After much research into the matter, TikTok's API requires an application sent to an email that say it could take up to a month to get a response. If we had more time to continue our research and analysis we could possibly get access to this API.
+
+2. TikTok's parent company ByteDance does not have publically traded stock at this time. However there are some publically traded investment companies that hold shares in ByteDance. Therefore we could look into the stock of companies like KKR and Softbank to see how their stock changes compare to the social media stocks we looked into.
+
+3. Further research into the biological/psychological reasons behind TikTok's success. We looked briefly into average attention span and the effect of dopamine on the brain. From what we uncovered there appears to be a relation between dopamine release and instant gratification from shorter videos. With more time and research we could further test this theory with statistical analysis.
