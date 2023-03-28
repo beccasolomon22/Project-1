@@ -17,7 +17,7 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Changes and correlates of screen time in adults and children](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2822%2900182-1)
 
-[Social Media Stock](https://www.kaggle.com/datasets/prasertk/major-social-media-stock-prices-20122022)
+[Social Media Stock (Too large to include in respository)](https://www.kaggle.com/datasets/prasertk/major-social-media-stock-prices-20122022)
 
 [Company by Age]()
 
@@ -27,7 +27,7 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 
 [Revenue for Streaming Sites](https://www.kaggle.com/code/lamaradwan/netflix-and-tiktok-revenue-and-users/input)
 
-[TikTok Reviews 2015-2021](https://www.kaggle.com/datasets/shivamb/35-million-tiktok-mobile-app-reviews)
+[TikTok Reviews 2015-2021 (Too large to include in respository)](https://www.kaggle.com/datasets/shivamb/35-million-tiktok-mobile-app-reviews)
 
 [TikTok Reviews 2022](https://www.kaggle.com/datasets/shivkumarganesh/tiktok-google-play-store-review)
 
