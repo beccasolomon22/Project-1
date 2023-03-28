@@ -171,3 +171,5 @@ Lastly, TikTok’s success is very interesting to note because compared to other
 We know that TikTok is a very young company and similar to most social media apps experienced a beginner *BOOM*. Despite their massive boom due to the Covid-19 Pandemic we would find it interesting to return to this topic in a few years to see if TikTok was able to keep their momentum and continue to grow. This could involve returning in a few years to compare the updated datasets and viewers. We could also take a deeper look into TikTok's booming success compared to Vine's original boom and collapse. 
 
 Either way, TikTok's unique origin story of the Covid-19 Pandemic is one we hope to further research and analysis in.
+
+![TikTokvsVine](https://github.com/beccasolomon22/Project-1/blob/main/tik-tok-vs-vine.png)
