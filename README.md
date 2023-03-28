@@ -37,7 +37,7 @@ In the wake of the coronavirus (COVID-19) pandemic many have been turning to soc
 ### Company Ages
 ![IMG1](https://github.com/isabelleroet/tiktok/blob/f6b0056728c649d71ff33d8df1849d8cc870399c/tiktokimg/Screenshot%202023-03-27%20at%201.04.58%20AM.png)
 
-For getting the company ages, we did the same thing, but we also set the csv columns as variables and plotted a bar graph using pandas as well.
+For getting the company ages, we passed the 2 csvs through the reader and set the columns as variables. Then, we used those variables to plot a bar graph using pandas.
 ***
 
 ### Average Screen Time Per Day
